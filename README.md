@@ -2,7 +2,7 @@
 
  
 
-My name is Glauco Cossich, I am a tech enthusiast & an open-source believer. I mainly code in Pytho. I want to be a data analist anda data science specialist!✨🐍 
+My name is Glauco Cossich, I am a tech enthusiast & an open-source believer. I mainly code in Pytho. I want to be a data analist and data science specialist!✨🐍 
 
 Find out more about me & feel free to connect me here!
 
